@@ -66,13 +66,13 @@ The circuit was simulated in **ADS**, then designed as a **double-layer PCB** in
 
 ### Circuit Images  
 #### Schematic  
-![Circuit Schematic](Cicuit_board_images/Circuit_schematic.png)
+![Circuit Schematic](Circuit_board_images/Circuit_schematic.png)
 
 #### PCB Layout  
-![Circuit Layout](Cicuit_board_images/Circuit_PCB_layout.png)
+![Circuit Layout](Circuit_board_images/Circuit_PCB_layout.png)
 
 #### Fabricated Rectifier Board  
-![Fabricated Circuit](Cicuit_board_images/Fabricated_circuit.jpg)
+![Fabricated Circuit](Circuit_board_images/Fabricated_circuit.jpg)
 
 ### PCB Files  
 ```
